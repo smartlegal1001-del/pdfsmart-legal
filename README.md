@@ -2,7 +2,8 @@
 
 Questo repository contiene il minisito di **PDF Smart**, app per la lettura e la gestione dei documenti PDF.
 
-**Titolare indicato dall'utente:** Alfredo Bosco (persona fisica)  
+**Nome commerciale del progetto:** Golden Link  
+**Identità legale del titolare/fornitore:** da completare prima della pubblicazione definitiva  
 **Email pubblica:** smartlegal1001@gmail.com
 
 ## Importante: non pubblicare come documenti definitivi
